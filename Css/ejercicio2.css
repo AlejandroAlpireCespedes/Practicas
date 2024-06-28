@@ -1,0 +1,25 @@
+.contenedor{
+    display: flex;
+    gap: 10px;
+    }
+    
+    hr {
+        background-color:black ;
+         
+      }
+    
+    .borde-solido {
+      border: 3px solid red;
+    }
+    
+    .borde-discontinuo {
+      border: 3px dashed black; 
+    }
+    
+    .borde-punteado {
+      border: 3px dotted blue; 
+    }
+    
+    .borde-doble {
+      border: 3px double purple; 
+    }

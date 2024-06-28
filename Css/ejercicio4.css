@@ -1,0 +1,26 @@
+
+  body {
+    font-family: sans-serif;
+  }
+
+  .lista-anidada {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  .lista-anidada li {
+    background-color: #ddd;
+    padding: 10px;
+    margin-bottom: 5px;
+  }
+
+  .lista-anidada li:nth-child(odd) {
+    list-style-type: disc;
+    color: green;
+  }
+
+  .lista-anidada li:nth-child(even) {
+    list-style-type: circle;
+    color: orange;
+  }
+

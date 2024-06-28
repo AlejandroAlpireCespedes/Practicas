@@ -1,0 +1,18 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Dos columnas con igual ancho */
+    grid-gap: 10px; /* Espacio entre las celdas */
+    
+  }
+  
+  .grid-item {
+    background-color: #4CAF50; /* Color verde */
+    padding: 20px 40px; /* Ajusta el padding para controlar la forma rectangular */
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    
+  }
+.grid{
+    text-align:left;
+}  

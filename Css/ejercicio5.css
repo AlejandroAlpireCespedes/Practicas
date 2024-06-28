@@ -1,0 +1,17 @@
+div {
+    font-family: Arial, sans-serif;
+    margin: 100px;
+    padding: 100px; 
+    background-color: rgb(235, 234, 234);
+    width: 30%; 
+    max-width: 600px; 
+    align-items: center;
+  
+  }
+  
+ .tabla{
+    position:relative;
+    align-items: end;
+    
+   
+ }

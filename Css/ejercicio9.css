@@ -1,0 +1,22 @@
+.principal{
+  
+ 
+    align-items: center;
+    
+ 
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column; /* Los elementos se apilan verticalmente */
+    width: 500px; /* Ajusta el ancho del contenedor según sea necesario */
+  }
+  
+  .flex-item {
+    background-color: mediumseagreen;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 5px; /* Espacio entre los elementos */
+  }
+  

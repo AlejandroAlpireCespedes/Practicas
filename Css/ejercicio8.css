@@ -1,0 +1,32 @@
+.principal{
+padding: 100px;
+width: 50%; /* Ajustar el ancho del bloque */
+max-width: 800px; /* Máximo ancho del bloque */
+margin: 0 auto; /* Centrar el bloque horizontalmente */
+box-sizing: border-box; /* Incluir padding en el ancho total del bloque */
+justify-content: center; /* Centrar horizontalmente */
+align-items: center; /* Centrar verticalmente */
+
+}
+body {
+    font-family: sans-serif;
+}
+
+.contenedor {
+    display: flex; /* Habilita Flexbox */
+    background-color: red;
+    justify-content: space-around; /* Distribuye elementos con espacio alrededor */
+    padding: 40px;
+}
+
+.item {
+    background-color: green;
+    color: white;
+    font-size: 10em;
+    text-align:justify;
+    width: 100px; /* Ajusta el ancho de los elementos */
+}
+h1{
+
+    color: red;
+}
